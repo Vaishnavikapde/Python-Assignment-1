@@ -21,7 +21,7 @@ Multiplication: 20
 Division: 5.0
 
 
-📌 Task 2: Create a Personalized Greeting
+## 📌 Task 2: Create a Personalized Greeting
 Description:
 This script:
 
@@ -31,7 +31,7 @@ Concatenates them into a full name.
 
 Prints a personalized greeting message using the full name.
 
-Example Output:
+### Example Output:
 Enter your first name: John  
 Enter your last name: Doe  
 
